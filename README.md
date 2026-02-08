@@ -4,7 +4,7 @@ A collection of **3,534** LeetCode problem solutions written in Python.
 
 ## 📁 Folder Structure
 
-Solutions are organized alphabetically by the first character of the problem name:
+Solutions are organized alphabetically by the first character of the problem name:   
 
 | Folder | Count | Description |
 |--------|-------|-------------|
